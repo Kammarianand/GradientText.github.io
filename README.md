@@ -12,7 +12,7 @@ creating stylish Glowing text by using some css properties
 used only css properties 
 
 
-## background colors for h1
+## colors used for h1
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -21,7 +21,7 @@ used only css properties
 | Color3 |  #2394d5 |
 | Color4 |  #2af3b7 |
 
-## background colors for h6
+## colors used for h6
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
