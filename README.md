@@ -72,7 +72,7 @@ I'm a learner and coding enthusiast
 
 
 ## 🔗 Links
-[![replit](https://img.shields.io/badge/replit-0A66C2?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@kammarianand) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kammari-anand-504512230/) [![codepen](https://img.shields.io/badge/codepen-0A66C2?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SuperiorCoder)
+[![replit](https://img.shields.io/badge/replit-0A66C2?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@kammarianand)   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kammari-anand-504512230/)   [![codepen](https://img.shields.io/badge/codepen-0A66C2?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SuperiorCoder)
 
 
 
