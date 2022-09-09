@@ -31,6 +31,7 @@ used only css properties
 ``` 
 background-size: 200% 200%;
 -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
 -webkit-text-stroke: 8px transparent;
 
 ```
