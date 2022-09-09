@@ -30,6 +30,9 @@ used only css properties
 | Color3 |  #cf23cf |
 | Color4 |  #eedd44 |
 
+![text](https://img.shields.io/badge/text-styles-%2300599C.svg?style=for-the-badge&logo=textfile&logoColor=cobalt)
+
+
 ```
 <h1>Stay Hungry Stay Foolish</h1>
 ```
