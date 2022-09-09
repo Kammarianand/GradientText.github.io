@@ -13,19 +13,19 @@ used only css properties
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Color1 | ![#eeaa52](https://via.placeholder.com/10/eeaa52?text=+) #eeaa52 |
-| Color2 | ![#e73c6f](https://via.placeholder.com/10/e73c6f?text=+) #e73c6f |
-| Color3 | ![#2394d5](https://via.placeholder.com/10/2394d5?text=+) #2394d5 |
-| Color4 | ![#2af3b7](https://via.placeholder.com/10/2af3b7?text=+) #2af3b7 |
+| Color1 |  #eeaa52 |
+| Color2 |  #e73c6f |
+| Color3 |  #2394d5 |
+| Color4 |  #2af3b7 |
 
 ## background colors for h6
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Color1 | ![#f32170](https://via.placeholder.com/10/f32170?text=+) #f32170 |
-| Color2 | ![#ff6b08](https://via.placeholder.com/10/ff6b08?text=+) #ff6b08 |
-| Color3 | ![#cf23cf](https://via.placeholder.com/10/cf23cf?text=+) #cf23cf |
-| Color4 | ![#eedd44](https://via.placeholder.com/10/eedd44?text=+) #eedd44 |
+| Color1 |  #f32170 |
+| Color2 |  #ff6b08 |
+| Color3 |  #cf23cf |
+| Color4 |  #eedd44 |
 
 ### used special properties 
 ``` 
