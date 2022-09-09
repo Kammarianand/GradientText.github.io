@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+   padding: 0;
+   background: #000;
+  }
+  h1{
+  position: absolute;
+  top: 15%;
+  left: 8%;
+  background: #22ebff;
+  font-family: "Sans", Helvetica, sans-serif;
+  text-shadow: 0 0 150px #0ff,
+  0 0 250px #0ff,
+  0 0 500px #0ff,
+  0 0 1000px #0ff,
+  0 0 1500px #0ff,
+  inset 0 0 500px #0ff;
+  text-align: center;
+  animation: animate 1.5s linear infinite;
+  font-size: 110px;
+  text-transform: capitalize;
+  background: linear-gradient(45deg, #eeaa52, #e73c6f, #2394d5, #2af3b7);
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 8px transparent;
+  }
+   h6{
+  position: absolute;
+  top: 50%;
+  left: 38%;
+  font-size: 40px;
+  font-family: "Ubuntu", Helvetica, sans-serif;
+  background: linear-gradient(to right, #f32170,
+              #ff6b08, #cf23cf, #eedd44);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-shadow: 0 0 50px #22ebff;
+  }
+  @keyframes animate{
+  0%{
+  filter: hue-rotate(0deg);
+  }
+  50%{
+  filter: hue-rotate(180deg);
+  }
+  100%{
+   filter: hue-rotate(360deg);
+}
+}
