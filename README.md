@@ -5,6 +5,9 @@
 
 **The Glowing Gradient Text Using Html & Css**
 
+![HTML](https://img.shields.io/badge/Html-%2300599C.svg?style=for-the-badge&logo=html&logoColor=cyan)  ![css](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=css&logoColor=orange)
+
+
 creating stylish Glowing text by using some css properties
 used only css properties 
 
@@ -69,11 +72,7 @@ I'm a learner and coding enthusiast
 
 
 ## 🔗 Links
-[![replit](https://img.shields.io/badge/replit-0A66C2?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@kammarianand)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kammari-anand-504512230/)
-
-[![codepen](https://img.shields.io/badge/codepen-0A66C2?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SuperiorCoder)
+[![replit](https://img.shields.io/badge/replit-0A66C2?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@kammarianand) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kammari-anand-504512230/) [![codepen](https://img.shields.io/badge/codepen-0A66C2?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SuperiorCoder)
 
 
 
