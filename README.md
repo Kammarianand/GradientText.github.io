@@ -27,7 +27,12 @@ used only css properties
 | Color3 |  #cf23cf |
 | Color4 |  #eedd44 |
 
+```
+<h1>Stay Hungry Stay Foolish</h1>
+```
+
 ### used special properties 
+
 ``` 
 background-size: 200% 200%;
 -webkit-background-clip: text;
